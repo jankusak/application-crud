@@ -1,4 +1,4 @@
-package cz.skillmeaacademy;
+package cz.skillmeaacademy.db;
 
 import com.zaxxer.hikari.HikariConfig;
 import com.zaxxer.hikari.HikariDataSource;
